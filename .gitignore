@@ -3,3 +3,17 @@
 .env.local
 .env.development
 .env.production
+
+# Python virtual environments
+**/venv/
+**/.venv/
+
+# macOS system files
+.DS_Store
+
+# Node modules
+**/node_modules/
+
+# Next.js build outputs
+.next
+out
